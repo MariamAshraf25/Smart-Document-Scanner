@@ -24,8 +24,7 @@ The application includes a **Pipeline Viewer** that allows you to see the image 
 
 ## Getting Started
 1. **Clone the repo:**
-   ```bash
-  git clone https://github.com/MariamAshraf25/Smart-Document-Scanner.git
+git clone https://github.com/MariamAshraf25/Smart-Document-Scanner.git
 
 ## Author
 **Mariam Ashraf **
