@@ -1,5 +1,5 @@
 # --------------------------------------------------------------------------
-# Project:     AES-RSA Hybrid Encryption System
+# Project:     Smart Document Scanner
 # Author:      Mariam Ashraf
 # Faculty:     Engineering - Capital University (Formerly Helwan)
 # Date:        May 2026
