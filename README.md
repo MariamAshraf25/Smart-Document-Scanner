@@ -27,6 +27,6 @@ The application includes a **Pipeline Viewer** that allows you to see the image 
 git clone https://github.com/MariamAshraf25/Smart-Document-Scanner.git
 
 ## Author
-**Mariam Ashraf **
+**Mariam Ashraf**
 *Computer Engineering Student - Faculty of Engineering - Capital University (Formerly Helwan)*
 [LinkedIn Profile](https://www.linkedin.com/in/mariam-ashraf-84415b2b8)
