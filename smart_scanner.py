@@ -134,7 +134,7 @@ def process_image_hybrid(image_bgr):
     steps['07. Perspective Warp'] = warped.copy()
 
     final_gray = cv2.cvtColor(warped, cv2.COLOR_BGR2GRAY)
-    # تحسين الجودة قبل الـ threshold عشان نشيل النقط السودا
+
     final_gray = cv2.fastNlMeansDenoising(final_gray, h=10, templateWindowSize=7, searchWindowSize=21)
     clahe      = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
     final_gray = clahe.apply(final_gray)
